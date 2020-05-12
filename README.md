@@ -4,3 +4,4 @@ Day 2: Basic Operators, Basic String Operations, String Formatting, Lists, Loops
 Day3: Conditions, Functions, Scope <br/>
 Day4: Classes and Objects, Dictionary, Set <br/>
 Day 5: Tuple, Modules and Packages <br/>
+Day 6: Data Structures </br>
