@@ -10,4 +10,8 @@ Day 8: JSON/CSV parsing </br>
 Day 9: Database Operations </br>
 Day10: Database Operations </br>
 Day11: Generators and Decorators </br>
-Day12: Closures </br>
+Day12: Generators and Decorators</br>
+Day13: Closures </br>
+Day14: Regular Expressions </br>
+Day15: Multi Threading </br>
+
