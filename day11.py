@@ -25,8 +25,11 @@ logger.setLevel(logging.INFO)
 @my_decorator
 def sum(num1, num2):
   return num1 + num2
-a = 5
-b = 7
+#@my_decorator
+#def diff(num1, num2):
+    #return num1 - num2
+a = int(input("Num 1: "))
+b = int(input("Num 2: "))
 #c = my_decorator(sum)
 #result = c(a,b)
 result = sum(a,b)
